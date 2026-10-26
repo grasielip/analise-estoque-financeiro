@@ -1,0 +1,13 @@
+﻿produto_id;nome;categoria;custo_unitario;preco_venda;estoque_minimo
+1;Caderno universitário;Papelaria;8.5;16.9;20
+2;Caneta azul;Papelaria;0.8;2.0;100
+3;Mochila escolar;Acessórios;42.0;79.9;10
+4;Garrafa térmica;Acessórios;25.0;49.9;12
+5;Fone de ouvido;Eletrônicos;32.0;59.9;10
+6;Mouse sem fio;Eletrônicos;28.0;54.9;8
+7;Teclado USB;Eletrônicos;35.0;69.9;8
+8;Papel A4 pacote;Papelaria;18.0;29.9;15
+9;Calculadora básica;Eletrônicos;16.0;32.9;6
+10;Estojo;Acessórios;7.0;14.9;15
+11;Agenda;Papelaria;12.0;24.9;10
+12;Carregador USB;Eletrônicos;19.0;39.9;8
